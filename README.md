@@ -1,2 +1,3 @@
 # Calculator
-using Solidity
+Using Solidity
+truffle->config --> Priv Key To Be Added
